@@ -31,7 +31,7 @@ You will be building a basic RESTful API for managing a collection of books. The
     * Accept a unique identifier to delete a specific book record.
     * Return a success status or an appropriate error if the book is not found.
 
-**Enhancements (Optional for More Advanced Users):**
+**Optional Features:**
 
 * **Data Validation:**
     * Implement robust validation for incoming data (e.g., ensuring required fields are present, data types are correct, ISBN format is valid).
